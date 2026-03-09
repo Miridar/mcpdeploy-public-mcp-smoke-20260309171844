@@ -1,0 +1,9 @@
+{
+  "runtime": "python",
+  "command": "python",
+  "args": ["main.py"],
+  "entryPoint": "main.py",
+  "env": {
+    "EXAMPLE_MODE": "public-smoke"
+  }
+}
